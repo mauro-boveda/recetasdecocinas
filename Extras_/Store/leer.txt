@@ -1,0 +1,38 @@
+
+ ℹ INFORMACIÓN ℹ
+------------------------------------------------------
+Nota: si vas usar XBOX para tus juegos, tienes que activar Cuentas UAC y reiniciar tu PC
+para que los cambios se apliquen y luego ah disfrutar ;) .
+
+ ℹ INSTRUCCIONES ℹ
+------------------------------------------------------
+Paso 1. - Ejecute el archivo de registro 'Activar cuentas UAC.reg'
+Paso 2. - Reinicia tu PC
+Paso 3. - El inicio de sesión de Xbox ahora funcionará normalmente
+
+Si desea deshabilitar UAC después de iniciar sesión en Xbox,
+Aquí está cómo hacerlo:
+
+Paso 1: ejecute el archivo de registro 'Desactivar cuentas UAC.reg'
+Paso 2: reinicia tu PC
+Paso 3: UAC ahora estará deshabilitado
+
+
+ ℹ INFORMACIÓN ADICIONAL ℹ
+------------------------------------------------------
+• La función de inicio de sesión de la aplicación Xbox depende de que UAC esté habilitado.
+
+• Si no desea habilitar UAC, pero desea iniciar sesión en Xbox,
+puede iniciar sesión en su cuenta de Microsoft a través de:
+Configuración - Cuentas - iniciar sesión
+esto tambien iniciará en la aplicación Xbox.
+
+☑ ¡ SITIO WEB ! ☑
+
+www.eliteos.net
+
+☑ ¡ CANAL DE YOUTUBE ! ☑
+
+https://youtube.com/c/eliteos
+
+By Saint
